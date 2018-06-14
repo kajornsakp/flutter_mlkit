@@ -14,9 +14,9 @@ A Flutter plugin to use the Firebase ML Kit.
 |--------------------------------|---------|-----|
 | Recognize text(on device)      | ✅      | ✅  |
 | Recognize text(cloud)          | yet     | yet |
-| Detect faces(on device)        | yet     | yet |
+| Detect faces(on device)        | ✅      | ✅  |
 | Scan barcodes(on device)       | ✅      | ✅  |
-| Label Images(on device)        | yet     | yet |
+| Label Images(on device)        | ✅      | ✅  |
 | Label Images(cloud)            | yet     | yet |
 | Recognize landmarks(cloud)     | yet     | yet |
 | Custom model                   | yet     | yet |
